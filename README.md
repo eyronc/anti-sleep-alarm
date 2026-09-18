@@ -1,4 +1,4 @@
-# Anti-Sleep Alarm: Autonomous IoT Slumber Deterrent
+# Anti-Sleep Alarm
 
 An interactive presentation deck, hardware blueprint, and drowsiness simulator built with React, TypeScript, and Vite.
 
