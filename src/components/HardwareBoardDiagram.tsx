@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import alarm3dImg from '../assets/anti-sleep-alarm-3d.jpg';
 
 export interface BoardPart {
   id: string;
@@ -232,7 +233,7 @@ export const HardwareBoardDiagram: React.FC = () => {
         <div className="board-3d-center">
           <div className="board-image-viewport">
             <img
-              src="/anti-sleep-alarm-3d.jpg"
+              src={alarm3dImg}
               alt="3D Rendered Anti-Sleep Alarm IoT Hardware Station"
               className="board-3d-photo"
             />
