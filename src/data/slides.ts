@@ -8,7 +8,7 @@ export const presentationSlides: SlideData[] = [
     title: 'anti sleep alarm',
     subtitle: 'Group 1',
     heroKicker: 'September 19, 2026 ->',
-    takeaway: 'ALEGRE · CUIZON, C. · CUIZON, V. · CUMAHIG · LOFRANCO · OCHEA · PIZON · TALITY · OCHEA',
+    takeaway: 'ALEGRE · CUIZON, C. · CUIZON, V. · CUMAHIG · LOFRANCO · OCHEA · PIZON · TALITY',
     type: 'title',
     bullets: [
       {
